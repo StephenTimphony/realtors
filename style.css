@@ -1,5 +1,5 @@
 body {
-    color: blueviolet;
+    color: #333333;
     font-family: Arial, Helvetica, sans-serif;
   }
   
@@ -9,27 +9,27 @@ body {
   }
   
   .style1 {
-    background-color: #9B9A9A;
+    background-color: #71816D;
   }
   
   .style2 {
-    background-color: #9B9A9A;
+    background-color: #342A21;
   }
   
   .style3 {
-    background-color: #9B9A9A;
+    background-color: #DA667B;
   }
   
   .style4 {
-    background-color: #9B9A9A;
+    background-color: #C9B79C;
   }
   
   .style5 {
-    background-color: #9B9A9A;
+    background-color: #13262F;
   }
   
   .style6 {
-    background-color: #9B9A9A;
+    background-color: #E9E6FF;
   }
   
   /* SETTING THE COLOR OF THE BOX TEXT */
